@@ -16,7 +16,7 @@ struct panelsurya //struct panel surya
     int hari;
     float power;
     float powerT;
-    float indm; // indikator musim
+    float indm; // indicator musim
 };
 
 struct Peralatan //struct peralatan listrik
